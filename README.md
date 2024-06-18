@@ -1,7 +1,5 @@
 # IOSProject_StudyTimer
 
-# StudyTimer
-
 시험기간에 서두르지 않게 도와주는 타이머 앱
 
 ## 프로젝트 수행 목적
