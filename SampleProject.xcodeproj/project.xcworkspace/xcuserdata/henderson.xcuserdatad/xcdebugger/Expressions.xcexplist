@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "MainViewController.setTodayProgressBar():MainViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "String(format: &quot;%.3f&quot;, studyTimePercent * 100)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainViewController.saveStudyingTime():MainViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "leftTime / 3600">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UserViewController.clickNext(_:):UserViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "startDate.date">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainViewController.setStudyTime():MainViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tempTime">
+            </PersistentString>
+            <PersistentString
+               value = "Int(tempTime?.distance(to: Date()) ?? 0)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainViewController.setView():MainViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SceneDelegate.checkDate():SceneDelegate.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "UserDefaults.standard.integer(forKey: ConstantsKey.todaySleepTime)">
+            </PersistentString>
+            <PersistentString
+               value = "Date().toString()">
+            </PersistentString>
+            <PersistentString
+               value = "UserDefaults.standard.integer(forKey: ConstantsKey.todayRestTime)">
+            </PersistentString>
+            <PersistentString
+               value = "UserDefaults.standard.integer(forKey: ConstantsKey.todayStudyTime)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainViewController.test(_:):MainViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "round(test)">
+            </PersistentString>
+            <PersistentString
+               value = "test.rounded(toPlaces: 4)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainViewController.viewDidLoad():MainViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "UserDefaults.standard.string(forKey: ConstantsKey.todayStudyTime)">
+            </PersistentString>
+            <PersistentString
+               value = "UserDefaults.standard.integer(forKey: ConstantsKey.todayStudyTime)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SettingViewController.viewDidLoad():SettingViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "t.origin.x">
+            </PersistentString>
+            <PersistentString
+               value = "Float.greatestFiniteMagnitude">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainViewController.clickState(_:):MainViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tempTime">
+            </PersistentString>
+            <PersistentString
+               value = "isStudying">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
